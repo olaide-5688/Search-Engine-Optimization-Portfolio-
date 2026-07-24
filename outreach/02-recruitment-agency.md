@@ -12,9 +12,9 @@
 
 **Subject:** A Couple Of Website Improvements I Noticed
 
-Hi [Business] team,
+Hi A1 Personnel team,
 
-A consultant team with [X] years of combined experience and a genuine social following is a real credibility signal, most agencies your size can't say that.
+A consultant team with over 10 years of combined recruitment experience and a genuine 12,000+ social following is a real credibility signal, most agencies your size can't say that.
 
 I also spent a little time looking through your website. Overall it looks professional, but I noticed a few things that could be making it harder for visitors to become clients or candidates:
 
@@ -27,4 +27,6 @@ I also found one quick fix that could make an immediate difference, and included
 I've already put together a full audit with suggested fixes. If you'd like, I'd be happy to send it over.
 
 Best regards,
-[Bello]
+Bello
+Wix Website Expert | SEO & Conversion Specialist.
+
