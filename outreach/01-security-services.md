@@ -12,9 +12,9 @@
 
 **Subject:** A Few Ideas To Help More Customers Find You
 
-Hi [Business] team,
+Hi 247 Security Solutions team,
 
-I noticed you count [notable client type] among your clients. That's not an easy kind of trust to earn, and it says a lot about your track record.
+I noticed you count places of worship, including Brighton and Hove Synagogues, among your clients. That's not an easy kind of trust to earn, and it says a lot about your track record.
 
 I also spent a little time looking through your website. Overall it looks professional, but I noticed a few things that could be making it harder for visitors to become customers:
 
@@ -29,4 +29,5 @@ I also found one quick fix that could make an immediate difference, and included
 I've already put together a full audit with suggested fixes. If you'd like, I'd be happy to send it over.
 
 Best regards,
-[Bello]
+Bello
+Wix Website Expert | SEO & Conversion Specialist.
