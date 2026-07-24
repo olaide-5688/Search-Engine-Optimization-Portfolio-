@@ -10,9 +10,9 @@
 
 **Subject:** A Couple Of Website Improvements I Noticed
 
-Hi [Owner],
+Hi Dale,
 
-Your blog staying current on recent policy changes is genuinely useful, most consultancies in this space don't bother keeping that level of detail up to date.
+Your blog staying current on things like the 2026 minimum wage update and IRP card renewal delays is genuinely useful, most immigration consultancies don't bother keeping that level of detail up to date.
 
 I also spent a little time looking through your website. Overall it looks professional, but I noticed a few things that could be making it harder for visitors to become clients:
 
@@ -25,4 +25,5 @@ I also found one quick fix that could make an immediate difference, and included
 I've already put together a full audit with suggested fixes. If you'd like, I'd be happy to send it over.
 
 Best regards,
-[Bello]
+Bello
+Wix Website Expert | SEO & Conversion Specialist.
