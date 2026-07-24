@@ -12,7 +12,7 @@
 
 **Subject:** A Couple Of Website Improvements I Noticed
 
-Hi [Owner],
+Hi Omar,
 
 I came across your guide for landlords on recent tenancy law changes, genuinely useful, and not something most agencies in the area bother putting together.
 
@@ -29,4 +29,5 @@ There's also one quick fix that could help immediately, I've included it along w
 I've already put together a full audit with suggested fixes. If you'd like, I'd be happy to send it over.
 
 Best regards,
-[Bello]
+Bello
+Wix Website Expert | SEO & Conversion Specialist.
