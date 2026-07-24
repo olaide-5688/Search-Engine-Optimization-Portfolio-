@@ -12,9 +12,10 @@
 
 **Subject:** A Couple Of Website Improvements I Noticed
 
-Hi [Owner],
+Hi Gemma,
 
-Being trusted by [notable institutional client type] is a genuinely strong credibility signal, most advisors in this space can't say that.
+Being trusted by councils and NHS Trusts, not just individual landlords, is a genuinely strong credibility signal, most advisors in this space can't say that.
+
 
 I also spent a little time looking through your website. Overall it looks professional, but I noticed a few things that could be making it harder for visitors to become clients:
 
@@ -27,4 +28,5 @@ I also found one quick fix that could make an immediate difference, and included
 I've already put together a full audit with suggested fixes. If you'd like, I'd be happy to send it over.
 
 Best regards,
-[Bello]
+Bello
+Wix Website Expert | SEO & Conversion Specialist.
